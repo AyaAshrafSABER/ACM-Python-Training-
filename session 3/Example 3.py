@@ -1,5 +1,5 @@
 #Third Example - try to change the value of age
-age = 35
+age = int(input())
 
 # Here are the age limits for bus fares
 free_up_to_age = 4
